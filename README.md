@@ -2,4 +2,4 @@
 - [X] [SDLC](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm)
 - [ ] [Architecure steps]()
 - [ ] [Steps in solving performance issue]()
-- [ ] [Tree Data Structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
+- [X] [Tree Data Structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
