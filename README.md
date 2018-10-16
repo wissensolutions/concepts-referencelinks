@@ -1,4 +1,5 @@
 - [X] [Hibernate](https://www.journaldev.com/3633/hibernate-interview-questions-and-answers)
+- [X] [Optimistic and Pessimistic locs](https://docs.jboss.org/jbossas/docs/Server_Configuration_Guide/4/html/TransactionJTA_Overview-Pessimistic_and_optimistic_locking.html)
 - [X] [SDLC](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm)
 - [ ] [Architecure steps]()
 - [ ] [Steps in solving performance issue]()
