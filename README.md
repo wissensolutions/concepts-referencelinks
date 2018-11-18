@@ -13,6 +13,7 @@
     - [X] [SDLC](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm)
     - [ ] [Steps in solving performance issue]()
     - [X] [SOLID Principles](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace)
+    - [X] [BASE](./BASE.md)
 
 3. Datastructure Concepts
     - [X] [AVL Tree](https://www.thecodingdelight.com/avl-tree-implementation-java/)
