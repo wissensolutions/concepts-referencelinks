@@ -18,6 +18,7 @@
 3. Database Concepts
     - [X] [Hibernate](https://www.journaldev.com/3633/hibernate-interview-questions-and-answers)
     - [X] [Optimistic and Pessimistic locs](https://docs.jboss.org/jbossas/docs/Server_Configuration_Guide/4/html/TransactionJTA_Overview-Pessimistic_and_optimistic_locking.html)
+     - [X] [Oracle Interview Questions](https://www.softwaretestinghelp.com/oracle-interview-questions-part1/)
 
 4. Datastructure Concepts
     - [X] [AVL Tree](https://www.thecodingdelight.com/avl-tree-implementation-java/)
