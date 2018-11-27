@@ -25,7 +25,7 @@
     - [X] [Tree Data Structure](https://medium.com/the-renaissance-developer/learning-tree-data-structure-27c6bb363051)
     
 5. Apache Kafka
-     - [X] [Apache Kafka](https://kafka.apache.org/intro.html)
-
+     - [X] [Documentation](https://kafka.apache.org/intro.html)
+     - [X] [Why Kafka](./kafka.MD)
 
 
