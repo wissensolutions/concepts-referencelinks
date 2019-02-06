@@ -3,9 +3,10 @@ The BASE acronym was defined by Eric Brewer, who is also known for formulating t
 
 The CAP theorem states that a distributed computer system cannot guarantee all of the following three properties at the same time:
 
-Consistency
-Availability
-Partition tolerance
+1. Consistency
+2. Availability
+3. Partition tolerance
+
 A BASE system gives up on consistency.
 
 1. **Basically available** indicates that the system does guarantee availability, in terms of the CAP theorem.
