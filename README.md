@@ -14,6 +14,7 @@
     - [X] [Heuristic_exceptions](https://docs.jboss.org/jbossas/docs/Server_Configuration_Guide/4/html/TransactionJTA_Overview-Heuristic_exceptions.html)
     - [X] [Shared Nothing architecture](http://www.benstopford.com/2009/11/24/understanding-the-shared-nothing-architecture/)
     - [X] [Architecture Interview Questions](http://agafonovslava.com/post/2010/12/30/Computer-Architecture-Questions-on-Technical-Interview)
+    - [X] [Agile Non functional requirments](https://www.scaledagileframework.com/nonfunctional-requirements/)
 
 3. Database Concepts
     - [X] [Hibernate](https://www.journaldev.com/3633/hibernate-interview-questions-and-answers)
