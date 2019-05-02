@@ -5,7 +5,7 @@
     - [X] [Spring - Hibernate application tuning](http://www.jcombat.com/spring/performance-tuning-of-spring-based-application)
 
 2. Architecure Concepts
-    - [ ] [Architecure steps]()
+    - [X] [Architecure steps](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
     - [X] [SDLC](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm)
     - [ ] [Steps in solving performance issue]()
     - [X] [SOLID Principles](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace)
@@ -29,4 +29,5 @@
      - [X] [Documentation](https://kafka.apache.org/intro.html)
      - [X] [Why Kafka](./kafka.MD)
 
-
+6. Miscellaneous
+     - [X] [Json to Java](https://github.com/astav/JsonToJava)
