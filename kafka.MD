@@ -28,3 +28,5 @@ read from other broker. if topic is configured with N replicators, then it can w
   half messages should not be updated to replications. Entire transction will be rolled back. Kafka provides options (ACKS) to producer
   to achieve this. If the user chooses to ACKS = ALL, then leader will wait until acknowledgement by each of its replica.
   
+**Kafka vs Rabbit MQ**: 
+https://www.cloudkarafka.com/blog/2016-12-05-apachekafka-vs-rabbitmq.html
