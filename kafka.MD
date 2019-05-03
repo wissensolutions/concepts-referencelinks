@@ -29,4 +29,4 @@ read from other broker. if topic is configured with N replicators, then it can w
   to achieve this. If the user chooses to ACKS = ALL, then leader will wait until acknowledgement by each of its replica.
   
 **Kafka vs Rabbit MQ**: 
-https://www.cloudkarafka.com/blog/2016-12-05-apachekafka-vs-rabbitmq.html
+https://jack-vanlightly.com/blog/2017/12/4/rabbitmq-vs-kafka-part-1-messaging-topologies
