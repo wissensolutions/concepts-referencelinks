@@ -7,7 +7,7 @@ replay the message
 distributes across consumers, So in-turn ordering will be missed.
 
 **Kafka**: Kafka handles this situation in ***better way*** . Its designed to work on publisher subscriber model. i.e messages 
-will be delivered to all of its subscribers
+will be delivered to all of its subscribers. Kafka works on pull based model...
 
 1. ***Replay***: If the consumer has mulitple consumer groups, then messages will be replayed for each consumer- group. 
 2. ***Parallism*** (Horizantal scaling): If the consumer maintains same consumer group name, then messages will be distributed
