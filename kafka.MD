@@ -69,7 +69,9 @@ pushed to same partition. Producer will have flexibitly to choose partition. if
 
   4. **Behaves Clumsy**:
       Sometimes, it starts behaving a bit clumsy and slow, when the number of queues in a Kafka cluster increases. 
-
+  
+  5. **No order guarantee**:
+      Kafka maintains order across partition level only. So if the producers delivers the message across different paritions,       then there wont be any order guarantee. 
 
 **Kafka vs Rabbit MQ**: 
 https://jack-vanlightly.com/blog/2017/12/4/rabbitmq-vs-kafka-part-1-messaging-topologies
